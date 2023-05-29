@@ -1,0 +1,21 @@
+{
+  "name": "form-16-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "form16Parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "pdf-parse": "^1.1.1",
+    "pdf.js-extract": "^0.2.1",
+    "pdf2json": "^3.0.4",
+    "pdfjs-dist": "^3.6.172",
+    "request": "^2.88.2",
+    "textract": "^2.5.0"
+  }
+}
